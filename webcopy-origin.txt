@@ -1,0 +1,184 @@
+Uri: https://100-1.tech/
+File Name: C:\Users\Eugene\Desktop\101\100-1.tech\index.htm
+Content Type: text/html
+
+Uri: https://100-1.tech/contact
+File Name: C:\Users\Eugene\Desktop\101\100-1.tech\contact.html
+Content Type: text/html
+
+Uri: https://100-1.tech/css/button.css
+File Name: C:\Users\Eugene\Desktop\101\100-1.tech\css\button.css
+Content Type: text/css
+
+Uri: https://100-1.tech/css/media.css
+File Name: C:\Users\Eugene\Desktop\101\100-1.tech\css\media.css
+Content Type: text/css
+
+Uri: https://100-1.tech/css/media1920.css
+File Name: C:\Users\Eugene\Desktop\101\100-1.tech\css\media1920.css
+Content Type: text/css
+
+Uri: https://100-1.tech/css/style.css
+File Name: C:\Users\Eugene\Desktop\101\100-1.tech\css\style.css
+Content Type: text/css
+
+Uri: https://100-1.tech/faq
+File Name: C:\Users\Eugene\Desktop\101\100-1.tech\faq.html
+Content Type: text/html
+
+Uri: https://100-1.tech/font/Rubik-Medium.ttf
+File Name: C:\Users\Eugene\Desktop\101\100-1.tech\font\Rubik-Medium.ttf
+Content Type: application/octet-stream
+
+Uri: https://100-1.tech/font/TildaSans-Medium.eot
+File Name: C:\Users\Eugene\Desktop\101\100-1.tech\font\TildaSans-Medium.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://100-1.tech/font/TildaSans-Medium.woff
+File Name: C:\Users\Eugene\Desktop\101\100-1.tech\font\TildaSans-Medium.woff
+Content Type: font/woff
+
+Uri: https://100-1.tech/font/TildaSans-Medium.woff2
+File Name: C:\Users\Eugene\Desktop\101\100-1.tech\font\TildaSans-Medium.woff2
+Content Type: font/woff2
+
+Uri: https://100-1.tech/font/TildaSans-Semibold.eot
+File Name: C:\Users\Eugene\Desktop\101\100-1.tech\font\TildaSans-Semibold.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://100-1.tech/font/TildaSans-Semibold.woff
+File Name: C:\Users\Eugene\Desktop\101\100-1.tech\font\TildaSans-Semibold.woff
+Content Type: font/woff
+
+Uri: https://100-1.tech/font/TildaSans-Semibold.woff2
+File Name: C:\Users\Eugene\Desktop\101\100-1.tech\font\TildaSans-Semibold.woff2
+Content Type: font/woff2
+
+Uri: https://100-1.tech/img/apple-touch-icon.png
+File Name: C:\Users\Eugene\Desktop\101\100-1.tech\img\apple-touch-icon.png
+Content Type: image/png
+
+Uri: https://100-1.tech/img/background-main.svg
+File Name: C:\Users\Eugene\Desktop\101\100-1.tech\img\background-main.svg
+Content Type: image/svg+xml
+
+Uri: https://100-1.tech/img/bg.svg
+File Name: C:\Users\Eugene\Desktop\101\100-1.tech\img\bg.svg
+Content Type: image/svg+xml
+
+Uri: https://100-1.tech/img/favicon-16x16.png
+File Name: C:\Users\Eugene\Desktop\101\100-1.tech\img\favicon-16x16.png
+Content Type: image/png
+
+Uri: https://100-1.tech/img/favicon-32x32.png
+File Name: C:\Users\Eugene\Desktop\101\100-1.tech\img\favicon-32x32.png
+Content Type: image/png
+
+Uri: https://100-1.tech/img/safari-pinned-tab.svg
+File Name: C:\Users\Eugene\Desktop\101\100-1.tech\img\safari-pinned-tab.svg
+Content Type: image/svg+xml
+
+Uri: https://100-1.tech/img/site.webmanifest
+File Name: C:\Users\Eugene\Desktop\101\100-1.tech\img\site.webmanifest
+Content Type: application/octet-stream
+
+Uri: https://100-1.tech/js/form.js
+File Name: C:\Users\Eugene\Desktop\101\100-1.tech\js\form.js
+Content Type: application/javascript
+
+Uri: https://100-1.tech/js/script.js
+File Name: C:\Users\Eugene\Desktop\101\100-1.tech\js\script.js
+Content Type: application/javascript
+
+Uri: https://100-1.tech/policy
+File Name: C:\Users\Eugene\Desktop\101\100-1.tech\policy.html
+Content Type: text/html
+
+Uri: https://100-1.tech/question.html
+File Name: C:\Users\Eugene\Desktop\101\100-1.tech\question.html
+Content Type: text/html
+
+Uri: https://100-1.tech/src/css/button.css
+File Name: C:\Users\Eugene\Desktop\101\100-1.tech\src\css\button.css
+Content Type: text/css
+
+Uri: https://100-1.tech/src/css/media.css
+File Name: C:\Users\Eugene\Desktop\101\100-1.tech\src\css\media.css
+Content Type: text/css
+
+Uri: https://100-1.tech/src/css/media1920.css
+File Name: C:\Users\Eugene\Desktop\101\100-1.tech\src\css\media1920.css
+Content Type: text/css
+
+Uri: https://100-1.tech/src/css/style.css
+File Name: C:\Users\Eugene\Desktop\101\100-1.tech\src\css\style.css
+Content Type: text/css
+
+Uri: https://100-1.tech/src/font/Rubik-Medium.ttf
+File Name: C:\Users\Eugene\Desktop\101\100-1.tech\src\font\Rubik-Medium.ttf
+Content Type: application/octet-stream
+
+Uri: https://100-1.tech/src/font/TildaSans-Medium.eot
+File Name: C:\Users\Eugene\Desktop\101\100-1.tech\src\font\TildaSans-Medium.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://100-1.tech/src/font/TildaSans-Medium.woff
+File Name: C:\Users\Eugene\Desktop\101\100-1.tech\src\font\TildaSans-Medium.woff
+Content Type: font/woff
+
+Uri: https://100-1.tech/src/font/TildaSans-Medium.woff2
+File Name: C:\Users\Eugene\Desktop\101\100-1.tech\src\font\TildaSans-Medium.woff2
+Content Type: font/woff2
+
+Uri: https://100-1.tech/src/font/TildaSans-Semibold.eot
+File Name: C:\Users\Eugene\Desktop\101\100-1.tech\src\font\TildaSans-Semibold.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://100-1.tech/src/font/TildaSans-Semibold.woff
+File Name: C:\Users\Eugene\Desktop\101\100-1.tech\src\font\TildaSans-Semibold.woff
+Content Type: font/woff
+
+Uri: https://100-1.tech/src/font/TildaSans-Semibold.woff2
+File Name: C:\Users\Eugene\Desktop\101\100-1.tech\src\font\TildaSans-Semibold.woff2
+Content Type: font/woff2
+
+Uri: https://100-1.tech/src/img/apple-touch-icon.png
+File Name: C:\Users\Eugene\Desktop\101\100-1.tech\src\img\apple-touch-icon.png
+Content Type: image/png
+
+Uri: https://100-1.tech/src/img/background-main.svg
+File Name: C:\Users\Eugene\Desktop\101\100-1.tech\src\img\background-main.svg
+Content Type: image/svg+xml
+
+Uri: https://100-1.tech/src/img/bg.svg
+File Name: C:\Users\Eugene\Desktop\101\100-1.tech\src\img\bg.svg
+Content Type: image/svg+xml
+
+Uri: https://100-1.tech/src/img/favicon-16x16.png
+File Name: C:\Users\Eugene\Desktop\101\100-1.tech\src\img\favicon-16x16.png
+Content Type: image/png
+
+Uri: https://100-1.tech/src/img/favicon-32x32.png
+File Name: C:\Users\Eugene\Desktop\101\100-1.tech\src\img\favicon-32x32.png
+Content Type: image/png
+
+Uri: https://100-1.tech/src/img/safari-pinned-tab.svg
+File Name: C:\Users\Eugene\Desktop\101\100-1.tech\src\img\safari-pinned-tab.svg
+Content Type: image/svg+xml
+
+Uri: https://100-1.tech/src/img/site.webmanifest
+File Name: C:\Users\Eugene\Desktop\101\100-1.tech\src\img\site.webmanifest
+Content Type: application/octet-stream
+
+Uri: https://100-1.tech/src/js/main.js
+File Name: C:\Users\Eugene\Desktop\101\100-1.tech\src\js\main.js
+Content Type: application/javascript
+
+Uri: https://100-1.tech/src/js/script.js
+File Name: C:\Users\Eugene\Desktop\101\100-1.tech\src\js\script.js
+Content Type: application/javascript
+
+Uri: https://mc.yandex.ru/watch/96850866
+File Name: C:\Users\Eugene\Desktop\101\100-1.tech\watch\96850866
+Content Type: image/gif
+

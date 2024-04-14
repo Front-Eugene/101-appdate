@@ -1,0 +1,72 @@
+@media screen and (min-width: 1279px) and (max-width: 2920px) {
+
+    /* MAIN */
+
+    body {
+        width: 100vw;
+        max-width: 1920px;
+    }
+
+    header {
+        width: 100%;
+        max-width: 1920px;
+    }
+
+    .services {
+        width: 100%;
+        max-width: 1920px;
+    }
+
+    .level {
+    }
+
+    footer {
+        margin:0 48px;
+    }
+
+    .footer-right-item {
+        position: absolute;
+        margin: 190px 0 0 36px;
+        padding: 0;
+        left: 0;
+        top: 0;
+    }
+
+    .footer-right-item .footer-link {
+        width: 350px;
+        height: 22px;
+    }
+
+    /* MAIN */
+
+    /* FORM */
+    main{
+        /*padding: 0 48px;*/
+    }
+
+    main section:last-child{
+        margin-left:48px;
+        margin-right:48px;
+    }
+
+    .form-title h2 {
+        /* font-family: 'Rubik';
+        font-weight: 500; */
+        margin: 0 0 36px 0;
+    }
+
+    .form {
+        margin: 0 auto 44px 0;
+    }
+
+    /* FORM */
+
+    /* QUESTION */
+
+    .question {
+        width: 100%;
+        max-width: 1920px;
+    }
+
+    /* QUESTION */
+}
