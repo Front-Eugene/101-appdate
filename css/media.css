@@ -682,7 +682,8 @@
     }
 
     .agree-text {
-        width: 270px;
+        /* width: 270px; */
+        width: 273px;
         letter-spacing: 0px;
         color: #575F53;
     }
@@ -950,6 +951,7 @@
 
     .text-size a {
         width: 262px;
+        width: 272px;
         overflow: hidden;
         font-family: 'Rubik';
         font-weight: 500;

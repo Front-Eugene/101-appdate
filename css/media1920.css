@@ -17,11 +17,15 @@
         max-width: 1920px;
     }
 
-    .level {
-    }
+    /* .level {
+    } */
+
+    /* footer {
+        margin:0 48px;
+    } */
 
     footer {
-        margin:0 48px;
+        margin: 0 48px 48px 48px;
     }
 
     .footer-right-item {
@@ -40,9 +44,10 @@
     /* MAIN */
 
     /* FORM */
-    main{
-        /*padding: 0 48px;*/
-    }
+
+    /* main{
+        padding: 0 48px;
+    } */
 
     main section:last-child{
         margin-left:48px;
